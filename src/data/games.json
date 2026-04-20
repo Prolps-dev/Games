@@ -1,0 +1,56 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Combine the tiles to reach the 2048 block in this addictive puzzle.",
+    "category": "Puzzle",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/puzzle2048/400/300",
+    "tags": ["Numbers", "Strategy", "Addictive"]
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Rotate the hexagon to clear lines of incoming colored blocks.",
+    "category": "Arcade",
+    "iframeUrl": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "tags": ["Speed", "Color", "Reflexes"]
+  },
+  {
+    "id": "breaklock",
+    "title": "Breaklock",
+    "description": "A hybrid of Mastermind and the Android pattern lock. Guess the code!",
+    "category": "Puzzle",
+    "iframeUrl": "https://breaklock.jeze.me/",
+    "thumbnail": "https://picsum.photos/seed/breaklock/400/300",
+    "tags": ["Logic", "Cyberpunk", "Minimal"]
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "The timeless classic where you eat dots and avoid ghosts.",
+    "category": "Classic",
+    "iframeUrl": "https://google-pacman.com/",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "tags": ["Retro", "Maze", "Ghosts"]
+  },
+  {
+    "id": "snake",
+    "title": "Snake Arcade",
+    "description": "Grow your snake by eating apples and avoid hitting the walls.",
+    "category": "Classic",
+    "iframeUrl": "https://playsnake.org/",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "tags": ["Score", "Classic", "Reflexes"]
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Tap your way through the green pipes in this difficult avian challenge.",
+    "category": "Arcade",
+    "iframeUrl": "https://flappybird.io/",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "tags": ["Impossible", "One-Tap", "Simple"]
+  }
+]
